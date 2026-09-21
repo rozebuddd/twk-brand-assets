@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 900" width="1000" height="900">
+  <rect width="1000" height="900" fill="#000"/>
+  <path fill="#E10600" d="M210 40 h210 v310 L780 40 h210 L560 430 980 860 H760 L420 500 v360 H210 Z"/>
+  <text x="210" y="168" fill="#E10600" font-family="Arial Black, Impact, sans-serif" font-size="92" font-weight="900" letter-spacing="4">WITH</text>
+  <text x="50" y="860" fill="#E10600" font-family="Arial Black, Impact, sans-serif" font-size="42" font-weight="900" letter-spacing="2">FOCUS ON THE PLAN, NOT HOW YOU FEEL</text>
+</svg>
